@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Industrie 4.0 Trends"
+title: "Industrie 3.0 Trends"
 author: "Florent Prisse"
 date: "2017-12-05 16:36"
 ---
