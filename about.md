@@ -4,8 +4,6 @@ title: Florent E.N.E. Prisse
 permalink: /about/
 ---
 
-# Florent E.N.E. Prisse
-
 florent.prisse[at]capgemini.com
 +31 (0) 6 2506 8802
 
