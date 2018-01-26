@@ -89,7 +89,7 @@ Wiskundse A+B, natuurkunde, scheikunde, biologie, economie I, engels, nederlands
 
 ### ADD 1: PROJECT SUMMARIES @ CAPGEMINI CONSULTING
 
-## 2017 :  Eriks SHV
+#### 2017 :  Eriks SHV
 
 Re-worked the operational deployment work that we did for Shell in a proposal for a prolonged collaboration with Eriks to become their technology partner for condition monitoring.
 
