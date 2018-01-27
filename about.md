@@ -136,10 +136,6 @@ Business Case for investment (infrared drying installation)
 
 Kienbaum was invited by Akzo to explore the possibilities and benefits of kicking off a lean six-sigma program within its organisation, I was asked to identify the savings potential within the IT and Accounting departments.
 
-#### 2009 : Wordhouse, Netherlands (Interim Management)
-
-Wordhouse is a localization company for the software industry owned by my family. Due the economic downturn it saw itself in acute financial dire. At my family its request I took the lead in the downsizing of the company and in a later stage implemented improvements in its controls on operations and financial reporting.
-
 #### 2008 : DSM Advanced Manufacturing, Netherlands
 
 Subcontracting for Celerant: Maximising plant utilisation at Dyneema and thus delivering the first 10 M€ of a total of 26 M€ that will have to be delivered within the Advanced Manufacturing Program, while coaching 4 internal DSM consultants on their first assignment; My role was leading the analysis and process improvements in production; this included OEE based reporting structure, planning methodology and improving technical work-processes.
