@@ -111,7 +111,7 @@ We, Capgemini, offer an <u>integrated and solution based approach</u> to <u>achi
 
 
 | Drivers                                  | Enablers                                 |
-|  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+| ---------------------------------------- | ---------------------------------------- |
 | 75,000,000,000 connected devices by 2020 | Mobile 90% + adoption rate               |
 | **Consumerisation of Corporate IT<br />consumer habits influencing workplace** | Cloud & In -Memory scalable, low cost, fast |
 | Competition: global competition forcing new USP's | Analytics : Powerfull and realtime       |
@@ -278,11 +278,20 @@ Accelerated IoT platform for large sensor networks
 
 #### Industrialised Solutions:
 
-**AcceleSense Asset Management**
+**AcceleSense Asset Management**  
+
 - Remote monitoring of assets
-- Asset health status reporting with AQC & MQC
-- Drill down data analysis and exploration
-- Real time data and media( camera sensors) streaming
+- Asset health status reporting with AQC & MQC<br />
+- rill down data analysis and exploration<br />
+- Real time data and media( camera sensors) streaming<br />
+- Summary boards and Geo maps with regional summary |
+
+
+**AcceleSense Asset Management**
+- Remote monitoring of assets<br />
+- Asset health status reporting with AQC & MQC<br />
+- Drill down data analysis and exploration<br />
+- Real time data and media( camera sensors) streaming<br />
 - Summary boards and Geo maps with regional summary  
 
 **AcceleSense Asset Automobile**
