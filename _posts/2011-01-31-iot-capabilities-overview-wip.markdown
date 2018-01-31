@@ -1,8 +1,10 @@
- - - -
+---
 layout: "post"
 title: "IoT_Capabilities_Overview_Draft"
-date: "2018 -01 -31 15:33"
- - - -
+date: "2011-01-31 15:33"
+---
+
+
 
 ### My comments:
 
@@ -76,14 +78,14 @@ https://km3.capgemini.com/community/12745
 ### Selection of relevant readings:
 
  - [The IoT Heatmap](https://km3.capgemini.com/system/tdf/book/2017/05/17/The%20Forrester%20Wave -%20IoT%20Software%20Platforms.pdf?file=1&type=document), Forrester  
-*Key takeaways: Companies are looking to IoT to help them go digital  - Focus on business -led IoT use cases, not vertical or tech strategies  - this document also highlights use cases by industry*
- -
-[IoT Software platforms, Q4 2016](https://km3.capgemini.com/system/tdf/book/2017/05/17/The%20Forrester%20Wave -%20IoT%20Software%20Platforms.pdf?file=1&type=document), Forrester, Nov2016  
-*Key takeaways: IBM,PTC, GE, and Microsoft lead the pack  - IoT Software platforms simplify enabling connected products and processes  - Partner ecosystems, pre -built apps, and advanced analytics are key differentiators*
+     *Key takeaways: Companies are looking to IoT to help them go digital  - Focus on business -led IoT use cases, not vertical or tech strategies  - this document also highlights use cases by industry*
+        -
+       [IoT Software platforms, Q4 2016](https://km3.capgemini.com/system/tdf/book/2017/05/17/The%20Forrester%20Wave -%20IoT%20Software%20Platforms.pdf?file=1&type=document), Forrester, Nov2016  
+       *Key takeaways: IBM,PTC, GE, and Microsoft lead the pack  - IoT Software platforms simplify enabling connected products and processes  - Partner ecosystems, pre -built apps, and advanced analytics are key differentiators*
  - [Topfive Iot Trends for 2017](https://km3.capgemini.com/system/tdf/book/2017/05/17/Top%20IoT%20trends%20for%202017_IBM.PDF?file=1&type=document)[IoT](https://km3.capgemini.com/system/tdf/book/2017/05/17/Top%20IoT%20trends%20for%202017_IBM.PDF?file=1&type=document), IBM, Jan 2017  
-*Key takeaways: Majortrends Include: API, Platforms, Cognitive Computing, Security and Blockchain*
+     *Key takeaways: Majortrends Include: API, Platforms, Cognitive Computing, Security and Blockchain*
  - [IDC market ScapeMarketScape– Worldwide IoTconsulting and Systems Integration Services 2016 Vendor Assessment ](https://km3.capgemini.com/system/tdf/book/2017/05/17/IoT%20Consulting%20and%20System%20Integration%20Vendor%20Assessment_IDC.PDF?file=1&type=document), IDC,2016  
-*Key takeaways: the following falls under the Leaders category: Accenture, HCL, TCS, Deloitte,Cognizant, IBM, PwC*
+     *Key takeaways: the following falls under the Leaders category: Accenture, HCL, TCS, Deloitte,Cognizant, IBM, PwC*
  - [CSX IoTReference Architecture](https://km3.capgemini.com/system/tdf/book/2017/05/17/Reference%20Architecture -v2 -CSX.pdf?file=1&type=document), CapgeminiDCX,work in progress  
  - [A Reference Architecture for Internet of Things Security ](https://km3.capgemini.com/system/tdf/book/2017/05/17/IoT%20security%20reference%20architecture_Symantic.pdf?file=1&type=document)(Symantec,2016)
  - [Azure IoT Presentation Webinar](https://km3.capgemini.com/system/tdf/book/2017/05/17/Azure%20IOT.pptx?file=1&type=document), Capgemini, Nov 2016  
@@ -156,7 +158,7 @@ Image: IoT_Capgemini_Services.PNG
  - As a service business model
  - Open and highly scalable architecture
  - 100 % cloud compatible : Bluemix, AWS, Azur
-(intel inside & ANSI aproved)
+     (intel inside & ANSI aproved)
 
 #### References:
 [CEA&EDF](https://www.edf.fr/en/the -edf -group/dedicated -sections/journalists/all -press -releases/edf -and -the -cea -consolidate -their -collaboration -in -the -field -of -r -d -in -relation -to -nuclear -digital -technology -and -energy -transition) In situ geo -location  
@@ -199,7 +201,7 @@ Contacts:
 ### DCX Toulouse Offer
  - End -to -end development of customer’s connected service through an AIE oriented approach and a strong ecosystem  
  - Joining the Toulouse IoT Valley
-A Win -Win -Win partnership approach tohelp legacy company meet startups business  
+     A Win -Win -Win partnership approach tohelp legacy company meet startups business  
 
 Contact:  
 [vincent.denys](mailto:vincent.denys@capgemini.com)  
