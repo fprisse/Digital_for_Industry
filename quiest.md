@@ -31,7 +31,7 @@ Conseil stratégique et opérationnel spécialisé dans le changement à base de
 
 Unification des procédures d'embauche aux Royaume-Uni et Pays-Bas. Mise en place d'une agence de recrutement autonome pour SSI.
 
-###FORMATION / ÉTUDES
+### FORMATION / ÉTUDES
 
 #### 1993 - 1999: Droit - Université d'Amsterdam
 
