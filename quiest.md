@@ -27,15 +27,11 @@ Conseiller à demande vers des projets à fort impact pour l'industrie de l'éne
 
 Conseil stratégique et opérationnel spécialisé dans le changement à base de technologies de pointe.
 
-#### 1999 - 1999: Parajuriste – bureau d’avocature Allen & Overy
-
-Assistant au sein de la section Mergers & Acquisitions
-
 #### 1998 - 1999: Assistant - Shell Global Solutions, La Haye
 
 Unification des procédures d'embauche aux Royaume-Uni et Pays-Bas. Mise en place d'une agence de recrutement autonome pour SSI.
 
-###FORMATION / ÉTUDES
+### FORMATION / ÉTUDES
 
 #### 1993 - 1999: Droit - Université d'Amsterdam
 
@@ -58,7 +54,7 @@ Math A+B, physique, chimie, biologie, économie,  Anglais, Néerlandais
 
 **L'institut de formation de ce Royal Dutch Sailing Association forme des jeunes de 15 à 22 ans à la maîtrise des yachts en mer. Cela comprend la navigation, la météorologie et la manutention des navires*
 
-###AUTRES COMPÉTENCES ET PERMIS
+### AUTRES COMPÉTENCES ET PERMIS
 
 **Certificats**
 
