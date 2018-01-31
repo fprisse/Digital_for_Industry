@@ -275,11 +275,25 @@ Accelerated IoT platform for large sensor networks
  - Time Series a
 
 #### Industrialised Solutions:
-| Solution | Assets |
-|---|---|
-| AcceleSense Asset Management | Remote monitoring of assets - Asset health status reporting with AQC & MQC - Drill down data analysis and exploration - Real time data and media( camera sensors) streaming - Summary boards and Geo maps with regional summary |
-| AcceleSense Asset Automobile | Geo tracking of an entity under distribution - GIS view of all the distribution centers - Summary views by work type: actor and the time taken - Real time updates of an entity and the status change and location |
-| AcceleSenseTelecom | Real time network topology streaming - Real time Point of Interest (POI) creation and geo tracking - GIS view of the entire network graph - Analytics of time series data from all the network devices |
+
+**AcceleSense Asset Management**
+- Remote monitoring of assets
+- Asset health status reporting with AQC & MQC
+- Drill down data analysis and exploration
+- Real time data and media( camera sensors) streaming
+- Summary boards and Geo maps with regional summary  
+
+**AcceleSense Asset Automobile**
+- Geo tracking of an entity under distribution
+- GIS view of all the distribution centers
+- Summary views by work type: actor and the time taken
+- Real time updates of an entity and the status change and location
+
+**AcceleSense Telecom** 
+- Real time network topology streaming
+- Real time Point of Interest (POI) creation and geo tracking
+- GIS view of the entire network graph
+- Analytics of time series data from all the network devices |
 
 [PDF on KM30](https://km3.capgemini.com/system/tdf/book/2017/05/17/Capgemini%20Cloud%20IoT%20 -%20AcceleSense%20platform%20v%203.pdf?file=1&type=document)
 
