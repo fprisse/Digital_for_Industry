@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Florent E.N.E. Prisse
-permalink: /about/
+permalink: /Qui_Est/
 ---
 
 florent.prisse[at]capgemini.com
