@@ -1,18 +1,18 @@
 ---
 layout: page
 title: Florent E.N.E. Prisse
-permalink: /Qui/
+permalink: /quiest/
 ---
 
 florent.prisse[at]capgemini.com
 +31 (0) 6 2506 8802
 
-### EXPÉRIENCE PROFESSIONNELLE 
+### EXPÉRIENCE PROFESSIONNELLE
 #### 2011 à ce jour: Consultant - Capgemini Consulting, Amsterdam
 Expert en contenu sur l'innovation matérielle et la gestion d'actifs dans les iindustries à forte intensité d'actifs telles que la fabrication, l'énergie en amont et les infrastructures publiques. Amélioration de la disponibilité (uptime) et de la qualité par la fiabilité de l'équipement et le  contrôle de la production. Création d'une information en temps quasi réel (near realtime) sur l'état de l'actif et du processus par les:
 - Planification, programmation et approvisionnement
 - Maintenance prédictive pilotée par les données
-- Évaluation quantifiée de la qualité 
+- Évaluation quantifiée de la qualité
 - Suivi de la performance des actifs
 
 #### 2003 - 2011: Consultant - Goodfoot Consulting, Amsterdam
@@ -46,7 +46,7 @@ LLM en droit néerlandais avec comme spécialisations:
 - La gouvernance d'entreprise. Thèse finale: Le rôle du représentant du gouvernement dans le conseil de surveillance des services publics nouvellement privatisés.
 
 #### 1992 - 1993: Economie - Université d'Amsterdam
-#### 1990 - 1992: VWO - β - Rijnlands Lyceum Oegstgeest 
+#### 1990 - 1992: VWO - β - Rijnlands Lyceum Oegstgeest
 Math A+B, physique, chimie, biologie, économie,  Anglais, Néerlandais
 #### 1985 - 1990: HAVO - Rijnlands Lyceum Oegstgeest
 ### ACTIVITÉS EXTRA-SCOLAIRES  
@@ -89,7 +89,7 @@ L'organisation P2P centralisée de DSM avait du mal à satisfaire DSM Nutritiona
 
 #### 2016: ProRail, Pays-Bas
 
-Gestion de la performance des actifs: analyse de plan de mise en œuvre et schéma de rapportage des temps d'arrêt dans deux régions (randstad-Noord et Zuid) de l'infrastructure ferroviaire néerlandaise; et cela en alignement aux contrats de performance entre ProRail et ses sous-traitants. Ici, nous avons combiné les données de panne avec des données de performance et les données d’ordre de travail afin d’obtenir un aperçu quotidien de l'état de l'actif et se faire révéler les problèmes fondamentaux. 
+Gestion de la performance des actifs: analyse de plan de mise en œuvre et schéma de rapportage des temps d'arrêt dans deux régions (randstad-Noord et Zuid) de l'infrastructure ferroviaire néerlandaise; et cela en alignement aux contrats de performance entre ProRail et ses sous-traitants. Ici, nous avons combiné les données de panne avec des données de performance et les données d’ordre de travail afin d’obtenir un aperçu quotidien de l'état de l'actif et se faire révéler les problèmes fondamentaux.
 
 #### 2016: Capgemini Consulting, Benelux
 
@@ -107,13 +107,13 @@ Dans le cadre de l'intégration de trois terminaux chimiques, nous avons aidé �
 #### 2014: National Grid, Royaume-Uni
 
 Dans le cadre de la mise en place d'un nouveau modèle, je fus invité à réviser leur stratégie
-d'innovation dans les limites strictes du cadre législatif britannique pour la recherche financée par l’état. 
+d'innovation dans les limites strictes du cadre législatif britannique pour la recherche financée par l’état.
 
 #### 2012: Vopak Europoort, Pays-Bas
 
-OPEX, Programmede réduction pour les terminaux hollandais de Vopak.  Approvisionnement:Stratégie par groupe d'approvisionnement. Opérations: Réduction des heures supplémentaires et de la main d’œuvretemporaire par un meilleur pronostic de la demande de main-d'œuvre. Entretien& Réparations: Réduction du coût des sous-traitants par approvisionnementintérieur et améliorer de la planification et de l’ordonnancement.  Le succès de cet activité est du surtout àl’approche non-isolée des divers flux de travail. 
+OPEX, Programmede réduction pour les terminaux hollandais de Vopak.  Approvisionnement:Stratégie par groupe d'approvisionnement. Opérations: Réduction des heures supplémentaires et de la main d’œuvretemporaire par un meilleur pronostic de la demande de main-d'œuvre. Entretien& Réparations: Réduction du coût des sous-traitants par approvisionnementintérieur et améliorer de la planification et de l’ordonnancement.  Le succès de cet activité est du surtout àl’approche non-isolée des divers flux de travail.
 
-### ADDENDUM #2: LE RÉSUMÉ DES PROJETS @ GOODFOOT CONSULTING 
+### ADDENDUM #2: LE RÉSUMÉ DES PROJETS @ GOODFOOT CONSULTING
 
 #### 2011: Vodaphone International
 
@@ -139,7 +139,7 @@ Service MT, nous avons choisi pour un modèle de planification centrale et respo
 
 #### 2005: Vestas, Pays-Bas
 
-En sous-traitance pour *Celerant Consulting*, pour Vestas aux Pays-Bas nous avons redessi­né leurs processus de fonctionnement afin de préparer l'intégration de leur organisation dans l'organisation de services Europe Centrale de Vestas. Cela comprenait: la définition du personnel nécessaire, la méthode de planification du travail, lesprocessus logistiques et les rapports opérationnels. 
+En sous-traitance pour *Celerant Consulting*, pour Vestas aux Pays-Bas nous avons redessi­né leurs processus de fonctionnement afin de préparer l'intégration de leur organisation dans l'organisation de services Europe Centrale de Vestas. Cela comprenait: la définition du personnel nécessaire, la méthode de planification du travail, lesprocessus logistiques et les rapports opérationnels.
 
 #### 2005: Exploration et Production chez Shell, Europe
 
@@ -188,7 +188,7 @@ En coopération avec un expert industriel externe, j’ai mené une étude sur l
 
 #### 2001: Stratégie au 'London Shop'
 
-Analyse stratégique interne: 
+Analyse stratégique interne:
 
 - Évaluation et mesure du Support informatique (Ernst & Young)
 - Évaluation de l'informatique en tant que modèle de service d'entreprise (Organon)
@@ -197,7 +197,7 @@ Analyse stratégique interne:
 
 #### 2000: France Télécom, Pays-Bas
 
-Apport de 40.000 nouveaux clients chez Casema (cablecom). Gestion de planification et de charge de travail pour la télévente et le département technique. Support pour le nouveau manager télévente. 
+Apport de 40.000 nouveaux clients chez Casema (cablecom). Gestion de planification et de charge de travail pour la télévente et le département technique. Support pour le nouveau manager télévente.
 
 #### 1999: Casema Broadband, Pays-Bas
 
