@@ -54,7 +54,7 @@ Math A+B, physique, chimie, biologie, économie,  Anglais, Néerlandais
 
 **L'institut de formation de ce Royal Dutch Sailing Association forme des jeunes de 15 à 22 ans à la maîtrise des yachts en mer. Cela comprend la navigation, la météorologie et la manutention des navires*
 
-###AUTRES COMPÉTENCES ET PERMIS
+### AUTRES COMPÉTENCES ET PERMIS
 
 **Certificats**
 
