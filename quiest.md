@@ -27,10 +27,6 @@ Conseiller à demande vers des projets à fort impact pour l'industrie de l'éne
 
 Conseil stratégique et opérationnel spécialisé dans le changement à base de technologies de pointe.
 
-#### 1999 - 1999: Parajuriste – bureau d’avocature Allen & Overy
-
-Assistant au sein de la section Mergers & Acquisitions
-
 #### 1998 - 1999: Assistant - Shell Global Solutions, La Haye
 
 Unification des procédures d'embauche aux Royaume-Uni et Pays-Bas. Mise en place d'une agence de recrutement autonome pour SSI.
