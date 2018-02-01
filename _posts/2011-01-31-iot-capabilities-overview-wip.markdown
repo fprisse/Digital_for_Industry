@@ -1,14 +1,13 @@
 ---
 layout: "post"
 title: "IoT_Capabilities_Overview_Draft"
+published: false
 date: "2011-01-31 15:33"
 ---
 
 
 
 ### My comments:
-
-it is meant for people who truly have no idea what so ever
 
 It skips the step that connects it to the business issues that our clients are facing
 
