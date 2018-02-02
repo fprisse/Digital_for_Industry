@@ -77,7 +77,12 @@ Math A+B, physique, chimie, biologie, économie,  Anglais, Néerlandais
 
 
 
-### ADDENDUM #1: RÉSUMÉ DES PROJETS @ CAPGEMINI CONSULTING
+
+### ADDENDUM 1: RÉSUMÉ DES PROJETS @ CAPGEMINI CONSULTING
+
+#### 2017: Eriks SHV
+
+Nous avons revu le travail de déploiement opérationnel que nous avions effectué pour Shell dans le cadre d'une proposition de collaboration prolongée avec la firme Eriks, afin de devenir leur partenaire technologique en matière de surveillance des conditions (en anglais: ‘condition monitoring’).
 
 #### 2017: DSM Nutritional Products, Suisse et Inde
 
@@ -85,7 +90,7 @@ L'organisation P2P centralisée de DSM avait du mal à satisfaire DSM Nutritiona
 
 #### 2016: ProRail, Pays-Bas
 
-Gestion de la performance des actifs: analyse de plan de mise en œuvre et schéma de rapportage des temps d'arrêt dans deux régions (randstad-Noord et Zuid) de l'infrastructure ferroviaire néerlandaise; et cela en alignement aux contrats de performance entre ProRail et ses sous-traitants. Ici, nous avons combiné les données de panne avec des données de performance et les données d’ordre de travail afin d’obtenir un aperçu quotidien de l'état de l'actif et se faire révéler les problèmes fondamentaux.
+Gestion de la performance des actifs: mise en œuvre d'un plan d'analyse et de signalisation des temps d'arrêt dans deux régions, Randstad-Noord et Zuid (Randstad indiquant ici la région et non la firme bien connue) pour l'infrastructure ferroviaire néerlandaise; Ici, nous avons combiné les données de panne, de performance et celles des ordres de travail pour sous-traitants afin de créer un aperçu quotidien de l'état de l'actif. En plus, cela permettait de suivre la performance des contrats de ProRail avec ses sous-traitants.
 
 #### 2016: Capgemini Consulting, Benelux
 
@@ -95,6 +100,14 @@ Une introduction à la stratégie des unités d'affaires (business units): J’a
 
 Prorail, propriétaire de l'infrastructure ferroviaire néerlandaise, était confrontée à une mauvaise presse en raison de la disponibilité insatisfaisante de l'infrastructure autour de l’aéroport de Schiphol. Nous avons mené une analyse approfondie des causes profondes des temps d'arrêt. Consécutivement, sur la base de nos résultats, nous avons installé un workflow quotidien de planification et de reporting afin d'optimiser l'utilisation des heures de travail nocturnes disponibles. Cela comprenait: Planification conjointe et
 calendrier avec les entrepreneurs pour les réparations. Suivi des inspections et de l'entretien planifié exercés à temps. Isoler et escalader le processus pour des problèmes véritablement techniques. Amélioration du temps de fonctionnement de 21% en 3 mois.
+
+#### 2016: Innovation chez Shell (Hyperdrill)
+
+Elimination de risque dans le portefeuille d'innovation du point de vue de la réalisation.
+Shell oriente son portefeuille d'innovations selon la méthode Garry Hamel du
+chemin le plus court. Nous avons créé un modèle qui, dans les revues périodiques
+des investissements, puisse inclure les risques du déploiement et du développement
+opérationnels. 
 
 #### 2015:Vopak Anvers, Belgique
 
@@ -109,7 +122,9 @@ d'innovation dans les limites strictes du cadre législatif britannique pour la 
 
 OPEX, Programmede réduction pour les terminaux hollandais de Vopak.  Approvisionnement:Stratégie par groupe d'approvisionnement. Opérations: Réduction des heures supplémentaires et de la main d’œuvretemporaire par un meilleur pronostic de la demande de main-d'œuvre. Entretien& Réparations: Réduction du coût des sous-traitants par approvisionnementintérieur et améliorer de la planification et de l’ordonnancement.  Le succès de cet activité est du surtout àl’approche non-isolée des divers flux de travail.
 
-### ADDENDUM #2: LE RÉSUMÉ DES PROJETS @ GOODFOOT CONSULTING
+
+
+### ADDENDUM 2: LE RÉSUMÉ DES PROJETS @ GOODFOOT CONSULTING
 
 #### 2011: Vodaphone International
 
@@ -160,7 +175,7 @@ Avec McKinsey, nous avons développé un programme pour créer une culture de tr
 
 J’ai dû fermer les installations offshore à Lowestoft, fait fusionner les organisations de soutien offshore Anglais et Néerlandais et fait l’analyse et la mise en œuvre de la planification de logistique maritime.
 
-### ADDENDUM #3:  LE RÉSUMÉ DES PROJETS @ GEMINI CONSULTING
+### ADDENDUM 3:  LE RÉSUMÉ DES PROJETS @ GEMINI CONSULTING
 
 #### 2002: Projet Streamlead à Basell Polyolefins, Europe
 
