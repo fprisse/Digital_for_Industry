@@ -172,7 +172,7 @@ Consultancy (Capgemini Consulting)
 - Cross discipline alignment of logic and Metrics
 - Risk dependency calculations
 - Adaptive Regimes
--
+
 Data Processing (Cap)
 - Asset registration (application and support)
 
