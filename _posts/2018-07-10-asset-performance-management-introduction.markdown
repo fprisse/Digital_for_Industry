@@ -66,7 +66,7 @@ Furthermore: accurate determination of the likelihood of failure is possible by 
 When well translated into component specific agenda's this allows for (on average) longer intervals for inspections and overhauls AND prevention of undesirable events (failure, contamination or quality issues) by advancing maintenance work when models indicate a heightened likelihood of failure
 
 ## How does APM work ?
-APM is not one *thing* it is a set of well **orchestrated capabilties, technology and procured services**
+APM is not one *thing*. APM is a set of well **orchestrated capabilties, technology and procured services**
 
 **A comprehensive set of metrics (cross discipline)**
 {Image: Overarching KPI tree: USE CCT-TREE AS BASIS}
@@ -84,7 +84,7 @@ APM is not one *thing* it is a set of well **orchestrated capabilties, technolog
   - Extra sensor data
 - Provided in both event as stored format
 - Environmental Data
--
+
 **Static data repository** : Shared or synchronized
 - Asset tree
 - As-built documentation
