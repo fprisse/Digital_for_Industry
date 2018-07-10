@@ -164,21 +164,29 @@ It thus requires a mix of
 
 ### Capgemini end to end Asset Performance Mgt Appoach & Suite
 
-Governance and consultancy
+Governance ( - )
 - Platform and Software selection
-- Bespoke Data Model
+- Data Model
+
+Consultancy (Capgemini Consulting)
 - Cross discipline alignment of logic and Metrics
-- Asset registration (application and support)
 - Risk dependency calculations
-Impementation & Support
+- Adaptive Regimes
+-
+Data Processing (Cap)
+- Asset registration (application and support)
+
+Impementation & Support ( - )
 - Platform and Software
 - Bespoke Applications
 - Inspection & Reporting apps
-Connectivity & Sensoring (sogeti)
+
+Connectivity & Sensoring (Sogeti)
 - Machine Connectivity
 - Sensoring
-Advanced Analysitcs
-- Training &  Support
+
+Advanced Analysitcs (Predictive Modeling) (IDC)
+- Training & Support
 - (complex) Failure mode modeling
 
 {IMAGE: Use Picture e2e from Stephane Blanda}
