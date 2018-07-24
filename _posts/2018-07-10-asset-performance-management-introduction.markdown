@@ -78,12 +78,16 @@ Good thing about running real live data through these registries is that faulty 
 - Correlation, Regression & Clustering
 - Exportable Probality Models
 
+Image: Example of analytical toolbox - IBM - Predictive Solutions
 ![Example of Analytical Toolbox by IBM](https://fprisse.github.io/Digital_for_Industry/images/IBM_Prescriptive_Maintenance.PNG)
 
 ### 3.6 Asset Health Dashboard**
 - Display geographic dispersion of assets
 - Health: Likelihood of Failure (incl. forecast)
 - Criticality: Impact of undesirable event
+
+Image: Example of asset health dashboard - Capgemni APM on MS-Azure
+![Example asset Health dashboard](/images/CapgeminiAPM5.PNG)
 
 ### 3.7 Reporting and Publishing Tools**
 - Customizable Templates
@@ -101,6 +105,7 @@ Good thing about running real live data through these registries is that faulty 
 - Multivariate Analysis Skills
 - Procured Training & Specialist Support
 
+Example of Advanced analytics support framework - Capgemini Consulting
 ![Advanced Analytics Capabilities](https://fprisse.github.io/Digital_for_Industry/images/Data_Capabilty.PNG)
 
 ### 4.0 Connectivity
@@ -111,15 +116,12 @@ Good thing about running real live data through these registries is that faulty 
 - Performance mgt Systems (OEE, Product data & Quality)
 - Environmental data (API)
 
+Example of sensoring and connectivity solution - Sogeti High Tech
 ![Sogeti Smart Knob](https://fprisse.github.io/Digital_for_Industry/images/Smart_Knob.PNG)
 
-Two phased approach:
-1st: functional improvement making use of broader data set (improve maintenance taking operating paramaters into account) and vice versa: (improving the operating window by making use of asset health information)
-
-2nd: Intrated view and intergtaion of opartional and maintenance crew
 
 ## Extra: IOT Agenda:
-As the APM dashboard provides such a broad view it is the most appropraite starting poin for pinpointing where adding datasources have the most value. Thereby setting the priorities fot an IOT agenda based on a balanced view upon opeartional and asset management priorities
+As the APM dashboard provides such a broad view it is a very appropriate starting point for pinpointing for determining where adding datasources will have the most value. Thereby setting the priorities for an IOT agenda based on a balanced view upon opeartional and asset management priorities
 
 IoT is a gamechanger especially for older assets: whereas intergrating and acting such a wide breadth of data and cross-discipline was deemed to be only for copmpanies with newer facilities now teh upgrading of sensors and such has become a relatively small investmetn
 
