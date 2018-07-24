@@ -171,10 +171,10 @@ It thus requires a mix of
   - _preventive maintenance_
   - workorder optimization
 - Joint performance metrics: 
-  if you want a coordinated effort for a balance optimization of production, asset performance, product quality and cost, you better have a shared measure for these
+  for a coordinated effort to balance optimization of production, asset performance, product quality and cost, you had better have a shared measure for these
 - Make data relateable
   - Time stamped performance data
   - Trackable materials & product
   - Shared static data
-- Should not only integrate but also allow itself to be intergrated
+- Should not only integrate but also allow itself to be intergrated:
   This is where most ready made solutions fall short
