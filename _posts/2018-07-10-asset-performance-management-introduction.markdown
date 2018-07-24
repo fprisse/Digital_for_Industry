@@ -184,4 +184,4 @@ It thus requires a mix of
 ## 7.0 Links
 [Comparison Chart for APM Offerings][24033b3f]
 
-  [24033b3f]: https://fprisse.github.io/Digital_for_Industry/includes/APM_Soltions_Rated.xlsm "Click to download chart"
+  [24033b3f]: https://fprisse.github.io/Digital_for_Industry/_includes/APM_Soltions_Rated.xlsm "Click to download chart"
