@@ -1,50 +1,27 @@
 ---
 layout: "post"
 title: "Asset Performance Management Introduction"
-date: "2018-07-07 18:37"
+date: "2018-07-23 23:37"
 ---
 
-## Introduction
-### What is it ?
-Asset performance management is a set of capabilties. Namely: data capture, integration, visualization and analytics. Tied together with the **primary goal of optimising reliability and availability of physical assets** and/or reducing maintenance cost. However as time and technology progresses we have come to expect systems and application to not only extract from it's ecosysystem. We today expect APM methodology and solutions to contribute to the **optimisation production and product quality too**. Thus forming an intergral part of what we at Capgemini have dubbed the Digital Factory Platform.
+# Introduction to Asset Performance Management
+## 1. What is it ?
+Asset performance management is a set of capabilties. Namely: data capture, integration, visualization and analytics. Tied together with the **primary goal of optimising reliability and availability of physical assets** and/or reducing maintenance cost. However as time and technology progresses we have come to expect systems and application to not only extract from it's ecosysystem. We today expect APM methodology and solutions to contribute to the **optimisation production and product quality too**. Thus forming an integral part of what we at Capgemini have dubbed the Digital Factory Platform.
 
-{IMAGE: Data, Metrics and Reporting Graph}
+![APM Elements](/images/APM-Solution-Elements.PNG)
 
 Core of the concept is creating a comprehensive view across operations and maintenance, by making use of the same base information and performance metrics. Rather than reporting to each other.
 
-This does not require fully Integrating production management and asset management in terms of business processes and organization. APM when done right does however fascilitate further intergration of activies in the production and nmaintenance realm.
-
-| Benefits |
-| --- |
-| Maximize output. Fewer unplanned disruptions due to equipment breakdowns increases your OEE and means you can consistently meet production targets and achieve or exceed revenue goals.|
-| Optimize maintenance cycles. Move toward predictive and prescriptive maintenance strategies to address known sources of failure and performance degradation without driving up costs due to just-in-case preventative part replacements. |
-| Improve root-cause analysis. Advanced analytics, data mining and data visualization tools enable engineers to identify real root causes and develop ideal corrective action plans faster and more effectively.|
-| Maintenance Cost:    |
-| Help comply with regulations: EG: ISO 55001 |
-| Longer interval with confidence: ... |
-
+This does not require fully Integrating production management and asset management in terms of business processes and organization. APM when done right does however fascilitate further intergration of activies in the production and maintenance realm.
 
 APM:
 - includes the concepts of condition monitoring, predictive forecasting and reliability-centered maintenance (RCM).
-- Is a manner to run maintenance operations as an intergrale part of your daily (prodution) operations
-- It is not about *switching* from preventive maintenance to condition monitoring but it aims to add **sensory and operational data** to the equasion.
+- is a manner to run maintenance operations as an intergral part of your daily (prodution) operations
+- is not about *switching* from preventive maintenance to condition monitoring but it aims to add **sensory and operational data** to the equasion.
 
-{IMAGE:  How APM is not just the next step in the Maintenenance Ladder: USE BELOW TABLE }
-
-| **Strategy**         | **Description**                                              | **Asset Attributes**                                         |
-| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Reactive             | Run to failure, and then repair                              | Failure is unlikely, easily fixed/replaced, or non-critical  |
-| Preventive           | Service in a fixed time or cycle interval                    | Probability of failure increases with asset use or time      |
-| Condition Monitoring | Alerts for bad trends or other rules-based logic using a single data value | Assets where a component failure cascades into big $ losses  |
-| Predictive (PdM)     | Equipment specific algorithms or machine learning. Multivariable | Critical assets where unplanned downtime has business impact |
-| Prescriptive         | Model and knowledgebase identifies an issue and what to do for repair | Complex assets requiring advanced skills                     |
+![Capgemini Digital Maturity](/images/Digital Maturity.PNG)
 
 **History:** The methodology and terminology originates mainly from asset intensive continuous process industry with a homgenous product such as upstream oil & gas / electricity production and utilities. Industries Where the uptime component was the most important of the OEE equasion.
-
-```
-NOTE:  Maybe BRIEFLY DESCRIBE THE EQUIVALENT OF DOING THIS FROM AN PRODUCTION OPERATION POINT OF VIEW
-EG: making production and quality a part of the asset management dashboard but also by using production data on board in estimating the likelyhood of equipment failure
-```
 
 |   | In context with other Maintenance and Asset Management systems |
 | --- | --- |
@@ -52,8 +29,7 @@ EG: making production and quality a part of the asset management dashboard but a
 | EAM | EAM is designed for maintenance execution. A two-way link between the two is key for 1) Using maintenance execution history to gauage likelihood of failure 2) To trigger the creation or re-scheduling of work-orders |
 | AIP | Asset investment planning (AIP) AIP takes data on asset condition, maintenance costs, criticality,  budgets and risks, to produce a CAPEX forecast for asset replacement or decommissioning |
 
-
-### Why is it good ?
+## 2. Why is it good ?
 In Capital-intensive industries success is for the greater part defined by the balancing act of risk of undesirable events and the cost of preventing them. Today most organizations rely on preventive maintenance regimes and basic monitoring (mostly alarm systems provided by OEM's) for realizing safety, uptime and reliability at acceptable cost. Based on failures specific components may be prioritized for overhauls. Some do even adopt the maintenance and inspections intervals to take into account deviations in load & runtime based on reports provided by operations.
 
 Asset performance management is first and foremost about doing the above in a more data-drive manner and making use of advanced analytics to improve failure-mode modeling to improve maintenance regimes.
@@ -65,17 +41,26 @@ Furthermore: accurate determination of the likelihood of failure is possible by 
 
 When well translated into component specific agenda's this allows for (on average) longer intervals for inspections and overhauls AND prevention of undesirable events (failure, contamination or quality issues) by advancing maintenance work when models indicate a heightened likelihood of failure
 
-## How does APM work ?
-APM is not one *thing*. APM is a set of well **orchestrated capabilties, technology and procured services**
+| Benefits |
+| --- |
+| Maximize output, Longer production runs with confidence: Fewer unplanned disruptions due to equipment breakdowns increases your OEE and means you can consistently meet production targets and achieve or exceed revenue goals.|
+| Optimize maintenance cycles. Move toward predictive and prescriptive maintenance strategies to address known sources of failure and performance degradation without driving up costs due to just-in-case preventative part replacements. |
+| Reduce overall cost of ownership: Drive down maintenance cost due reduced unplanned work, improved sparepart inventory and longer lead times for contracted work |
+| Improve root-cause analysis. Advanced analytics, data mining and data visualization tools enable engineers to identify real root causes and develop ideal corrective action plans faster and more effectively.|
+| Help comply with regulations: EG: ISO 55001 |
 
-**A comprehensive set of metrics (cross discipline)**
-{Image: Overarching KPI tree: USE CCT-TREE AS BASIS}
+## 3. How does APM work ?
+APM is not one *thing*. APM is a set of well **orchestrated capabilties, involving business logic, governance, technology and procured services**
+
+### 3.1  A comprehensive set of metrics (cross discipline)
+
+![APM_KPI_TREE](/images/APM_KPI_TREE.PNG)
 
 | functional silos | Key Metrics | Outcomes |
 | --- | --- | --- |
 |  operations, maintenance and quality management | uptime, mean time to repair (MTTR), asset longevity, cost, quality/yield and safety | revenue, margin, customer satisfaction, and work-in-process (WIP) inventory  |
 
-**Data Model: Collect and Make Available**
+### 3.2 Data Model: Collect and Make Available
 - Cross discipline:
   - Maintenance: WO records, Regimes, Inspection reports
   - Operations: Performance, Raw Materials, Product Specs.
@@ -85,34 +70,43 @@ APM is not one *thing*. APM is a set of well **orchestrated capabilties, technol
 - Provided in both event as stored format
 - Environmental Data
 
-**Static data repository** : Shared or synchronized
+### 3.3 Static data repository : Shared or synchronized
+In order for data to be relate-able a foundation of well maintained registry of assets and individual products is needed.
 - Asset tree
 - As-built documentation
-- Asset dependency tables*
+- Asset dependency tables
 
-**Predictive Analysis Workbench**
-- Tools to build prediction models
+Good thing about running real live data through these registries is that faulty entries become very apparent. In fact there are APM solution providers that have (partly) automated the work flow for correcting anomalies.
+
+### Predictive Analysis Workbench
+- Tools to build predictive models
 - Correlation, Regression & Clustering
+- Exportable Probality Models
 
-**Advanced Analystics Capability**
-- Inhouse Training
-- Procured Specialist Support
+![Example of Analytical Toolbox by IBM](/images/IBM-prescriptive Maintenance.PNG)
 
-**Asset Health Dashboard**
+### Advanced Analytics Capability
+- Platform & Application Governance
+- Multivariate Analysis Skills
+- Procured Training & Specialist Support
+
+![Advanced Analytics Capabilities](/images/Data_Capabilty.PNG)
+
+### Asset Health Dashboard**
 - Display geographic dispersion of assets
 - Health: Likelihood of Failure (incl. forecast)
 - Criticality: Impact of undesirable event
 
-**Reporting and Publishing Tools**
+### Reporting and Publishing Tools**
 - Customizable Templates
 - Web-based & Interactive
 - Distributable format
 
-**Model implementation tool** (automated analysis & alarms)
+### Model implementation (automated analysis & alarms)
 - Database: Asset Health (LOF)
 - Act on Events: Alarms
-- Create Events: Workorders & Re-scheduling
 - Attribution of Alarms to relevant discipline
+- Create Events: Workorders & Re-scheduling
 
 **Connectivity**
 - Enterprise systems
@@ -121,6 +115,9 @@ APM is not one *thing*. APM is a set of well **orchestrated capabilties, technol
 - EAM (Maintenance planning & execution)
 - Performance mgt Systems (OEE, Product data & Quality)
 - Environmental data (API)
+
+![Sogety Smart Knob](/images/Smart Knob.PNG)
+
 
 Two phased approach:
 1st: functional improvement making use of broader data set (improve maintenance taking operating paramaters into account) and vice versa: (improving the operating window by making use of asset health information)
@@ -132,7 +129,7 @@ Two phased approach:
 The end result is an overall overview (timeline) that shows the development of the overall likelyhood of failure (and other undesirable outcomes)
 - considering the planned preventive work and production
 - A correction for Alarms, Operator reports, Inspections report
-- A coorection for condition monitoring data
+- A correction for condition monitoring data
 
 {IMAGE: Example of Asset Health Dashboard}
 
@@ -158,9 +155,12 @@ It thus requires a mix of
 - manner to deal with inconsistency
 - Tooling: use available data First (must be able to take on board reported input such as visual inspections)
 - Must track execution !!
-- Dont throw preventive maintenance or workorder optimalistaion overboard
+- Dont throw _preventive maintenance_ or _workorder optimization_ overboard
 - JOINT PERFORMANCE DASHBOARD ! if you want a coordinated effort for a balance optimsiation of production, asset performance, product quality and cost, you better have a shared measure for these
 - Make data relateable (tiem stamped performance data)
+- Take on board wide breadt of newly available information without throwing the basis overboard
+- Should not only integrate but also allow itseld to be intergrated
+-
 
 ### Capgemini end to end Asset Performance Mgt Appoach & Suite
 
@@ -176,7 +176,7 @@ Consultancy (Capgemini Consulting)
 Data Processing (Cap)
 - Asset registration (application and support)
 
-Impementation & Support ( - )
+Implementation & Support ( - )
 - Platform and Software
 - Bespoke Applications
 - Inspection & Reporting apps
@@ -199,29 +199,3 @@ Advanced Analysitcs (Predictive Modeling) (IDC)
 
 Note: score is constantly bein influenced by the reliabilty of other parts of the assets
 The need for indexed contribution (and a mechanisme to review it)
-
-### Wat is nu de grote crux ?
-
-1) Samen naar hetzelfde kijken (data and metrics)
-2) Agreed Asset dependency metrics !! make good description. Example rail: No# of Impacted travelers
-a simple example from the rail industry, a failure of a switch in the track at your your national rail hub has a far more negative impact on the overall performance that one that only serves 4 shorthaul trains a day.
-
-3) Adaptive regimes (niet wait till it is all about to fail) (dont throw overboard your achievements)
-4) Het gaat niet per se over nieuwe data, het gaat over de structuur en het mechanisme om data te kunnen combineren
-5) Must be able take on board intervention & prodcution data (early warning is not good enough) you need that thing that you can improve upon as part of your data set. Allow for early warning and impriovemetn measures
-
-- Unified reporting
-- Unified Staus Quo !! Relateable
-- Predictive information
-
-## SCRAP:
-Wat kan er allemaal als je dat doet ?
-
-Preventive maintenance
-Preventive maintenance schedules inspections and/or repairs are typically based on calendar time, run time, or cycle count. (please realize that many asset owners do not have this in place in a proper manner)
-
-Predictive Maintenance: (conditon monitoring  : based on likelihood of failure: broadening the set of parameters with continuously (or in short interval) monitored datapoints such as vibration. tension, temperature out of bounds operating window (RPM, weather) : TO tweat the intervals as described above to be asset specific. In its simplest form: a well organized operator- inspection scheme
-
-Inspections for stationary equipment (piping, presure relieve valves, and heat exchangers) visual, ultrasonic, oil analysis or corrosion typically used
-Process data with trend charts, out of bound registration of rpm / torque / presure etc
-Sensory data for manupalive equipment (rotary, curing etc) vibration / amp curve etc.
