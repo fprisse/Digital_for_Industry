@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Asset Performance Management Introduction"
+title: "Asset Performance Management"
 date: "2018-07-23 23:37"
 ---
 
@@ -145,12 +145,12 @@ Image: Example of sensoring and connectivity solution - "Smart Knob"  - Sogeti H
 ![Sogeti Smart Knob](https://fprisse.github.io/Digital_for_Industry/images/Smart_Knob.PNG)
 
 
-## Extra: IOT Agenda:
+## 4.0 Extra: IOT Agenda:
 As the APM dashboard provides such a broad view it is a very appropriate starting point for pinpointing for determining where adding datasources will have the most value. Thereby setting the priorities for an IOT agenda based on a balanced view upon opeartional and asset management priorities
 
 IoT is a gamechanger especially for older assets: whereas intergrating and acting such a wide breadth of data and cross-discipline was deemed to be only realistic for companies with newer facilities now the upgrading of sensors and such has become a relatively small investment
 
-## What makes it hard ?
+## 5.0 What makes it hard ?
 - imperfection (at start) of base data such as asset registries
 - Choosing the right level of detail
 - Making it work as a management tool AND making it work at shop floor level
@@ -162,7 +162,7 @@ It thus requires a mix of
 2. bottom up analytics & learning exercises
 3. Networked development
 
-## Critical success factors
+### 5.1 Critical success factors
 - Approach: non isolated approach: part of the concept
 - A structured manner to deal with inconsistency
 - Tooling: use available data first
