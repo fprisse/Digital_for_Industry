@@ -51,7 +51,9 @@ When well translated into component specific agenda's this allows for (on averag
 ## 3. How does APM work ?
 APM is not one *thing*. APM is a set of well **orchestrated capabilties, involving business logic, governance, technology and procured services**
 
-### 3.1  A comprehensive set of metrics (cross discipline)
+### 3.1  A comprehensive set of cross discipline metrics
+
+For a coordinated effort to balance optimization of production, asset performance, product quality and cost, a shared measure of the most desirable outcome is key.
 
 Image: APM Analystics framework integrated in OEE KPI Tree
 
