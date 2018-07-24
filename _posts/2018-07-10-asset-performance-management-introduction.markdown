@@ -8,7 +8,7 @@ date: "2018-07-23 23:37"
 ## 1. What is it ?
 Asset performance management is a set of capabilties. Namely: data capture, integration, visualization and analytics. Tied together with the **primary goal of optimising reliability and availability of physical assets** and/or reducing maintenance cost. However as time and technology progresses we have come to expect systems and application to not only extract from it's ecosysystem. We today expect APM methodology and solutions to contribute to the **optimisation production and product quality too**. Thus forming an integral part of what we at Capgemini have dubbed the Digital Factory Platform.
 
-![APM Elements](/images/APM-Solution-Elements.PNG)
+![APM Elements](https://fprisse.github.io/Digital_for_Industry/images/APM-Solution-Elements.PNG)
 
 Core of the concept is creating a comprehensive view across operations and maintenance, by making use of the same base information and performance metrics. Rather than reporting to each other.
 
@@ -19,7 +19,7 @@ APM:
 - is a manner to run maintenance operations as an intergral part of your daily (prodution) operations
 - is not about *switching* from preventive maintenance to condition monitoring but it aims to add **sensory and operational data** to the equasion.
 
-![Capgemini Digital Maturity](/images/Digital Maturity.PNG)
+![Capgemini Digital Maturity](https://fprisse.github.io/Digital_for_Industry/images/Digital_Maturity.PNG)
 
 **History:** The methodology and terminology originates mainly from asset intensive continuous process industry with a homgenous product such as upstream oil & gas / electricity production and utilities. Industries Where the uptime component was the most important of the OEE equasion.
 
@@ -54,7 +54,7 @@ APM is not one *thing*. APM is a set of well **orchestrated capabilties, involvi
 
 ### 3.1  A comprehensive set of metrics (cross discipline)
 
-![APM_KPI_TREE](/images/APM_KPI_TREE.PNG)
+![APM_KPI_TREE](https://fprisse.github.io/Digital_for_Industry/images/APM_KPI_TREE.PNG)
 
 | functional silos | Key Metrics | Outcomes |
 | --- | --- | --- |
@@ -78,37 +78,37 @@ In order for data to be relate-able a foundation of well maintained registry of 
 
 Good thing about running real live data through these registries is that faulty entries become very apparent. In fact there are APM solution providers that have (partly) automated the work flow for correcting anomalies.
 
-### Predictive Analysis Workbench
+### 3.4 Predictive Analysis Workbench
 - Tools to build predictive models
 - Correlation, Regression & Clustering
 - Exportable Probality Models
 
-![Example of Analytical Toolbox by IBM](/images/IBM-prescriptive Maintenance.PNG)
+![Example of Analytical Toolbox by IBM](https://fprisse.github.io/Digital_for_Industry/images/IBM-prescriptive_Maintenance.PNG)
 
-### Advanced Analytics Capability
-- Platform & Application Governance
-- Multivariate Analysis Skills
-- Procured Training & Specialist Support
-
-![Advanced Analytics Capabilities](/images/Data_Capabilty.PNG)
-
-### Asset Health Dashboard**
+### 3.6 Asset Health Dashboard**
 - Display geographic dispersion of assets
 - Health: Likelihood of Failure (incl. forecast)
 - Criticality: Impact of undesirable event
 
-### Reporting and Publishing Tools**
+### 3.7 Reporting and Publishing Tools**
 - Customizable Templates
 - Web-based & Interactive
 - Distributable format
 
-### Model implementation (automated analysis & alarms)
+### 3.8 Model implementation (automated analysis & alarms)
 - Database: Asset Health (LOF)
 - Act on Events: Alarms
 - Attribution of Alarms to relevant discipline
 - Create Events: Workorders & Re-scheduling
 
-**Connectivity**
+### 3.9 Advanced Analytics Capability
+- Platform & Application Governance
+- Multivariate Analysis Skills
+- Procured Training & Specialist Support
+
+![Advanced Analytics Capabilities](https://fprisse.github.io/Digital_for_Industry/images/Data_Capabilty.PNG)
+
+### 4.0 Connectivity
 - Enterprise systems
 - Machine Bus
 - External Sensors (IOT)
@@ -116,22 +116,18 @@ Good thing about running real live data through these registries is that faulty 
 - Performance mgt Systems (OEE, Product data & Quality)
 - Environmental data (API)
 
-![Sogety Smart Knob](/images/Smart Knob.PNG)
+![Sogety Smart Knob](### 3.5 Advanced Analytics Capability
+- Platform & Application Governance
+- Multivariate Analysis Skills
+- Procured Training & Specialist Support
+
+![Advanced Analytics Capabilities](https://fprisse.github.io/Digital_for_Industry/images/Data_Capabilty.PNG)/images/Smart_Knob.PNG)
 
 
 Two phased approach:
 1st: functional improvement making use of broader data set (improve maintenance taking operating paramaters into account) and vice versa: (improving the operating window by making use of asset health information)
 
 2nd: Intrated view and intergtaion of opartional and maintenance crew
-
-
-### Highlight: Asset health Dashboard
-The end result is an overall overview (timeline) that shows the development of the overall likelyhood of failure (and other undesirable outcomes)
-- considering the planned preventive work and production
-- A correction for Alarms, Operator reports, Inspections report
-- A correction for condition monitoring data
-
-{IMAGE: Example of Asset Health Dashboard}
 
 ## Extra: IOT Agenda:
 As the APM dashboard provides such a broad view it is the most appropraite starting poin for pinpointing where adding datasources have the most value. Thereby setting the priorities fot an IOT agenda based on a balanced view upon opeartional and asset management priorities
@@ -160,42 +156,3 @@ It thus requires a mix of
 - Make data relateable (tiem stamped performance data)
 - Take on board wide breadt of newly available information without throwing the basis overboard
 - Should not only integrate but also allow itseld to be intergrated
--
-
-### Capgemini end to end Asset Performance Mgt Appoach & Suite
-
-Governance ( - )
-- Platform and Software selection
-- Data Model
-
-Consultancy (Capgemini Consulting)
-- Cross discipline alignment of logic and Metrics
-- Risk dependency calculations
-- Adaptive Regimes
-
-Data Processing (Cap)
-- Asset registration (application and support)
-
-Implementation & Support ( - )
-- Platform and Software
-- Bespoke Applications
-- Inspection & Reporting apps
-
-Connectivity & Sensoring (Sogeti)
-- Machine Connectivity
-- Sensoring
-
-Advanced Analysitcs (Predictive Modeling) (IDC)
-- Training & Support
-- (complex) Failure mode modeling
-
-{IMAGE: Use Picture e2e from Stephane Blanda}
-
-## EXECUTIVE SUMMERAY (DRAFT)
-1) Shared metrics and measures (agreed optimal outcome)
-2) Intergal availablitly of indormation : note: sensory & environmental data is relatively easy, the hard part is getting operator interventions/ maintenance activities and quality data in 1) ASSET HEALTH DASHBOARD MUST ALOOW FOR THIS 2) SMART SOLUTIONS FOR GETTONG DATA IN (SMART KNOB AND REPORTINMG APPS)
-3) Data must be relateable from the start (product, raw materials, assets/machines, quality data)
-4)
-
-Note: score is constantly bein influenced by the reliabilty of other parts of the assets
-The need for indexed contribution (and a mechanisme to review it)

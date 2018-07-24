@@ -35,12 +35,12 @@ Smart Energy  |  Moving energy consumption and production data into the public d
 
 Now what does this mean for a **Operations Manager** and a **Maintenance Chief** who allready run a highly robotised plant that spits out a mid-size truck-frame every hour.
 
-![Image: Process](https://fprisse.github.io/Digital_for_Industry/images/Automotive_Process.PNG)  
+![Image: Process](https://fprisse.github.io/Digital_for_Industry/images/Automotive_Process.PNG)
 
 ### Use of Machine & Process Data
 In earlier times (total quality or six-sigma) the breadth of variables needed to be deminished to surface the relation between material specs, recepies, machine settings, handling manner and enviromental influences. With todays data gathering capabilities and analytical tooling one does not need to put pad-locks on dials to flesh out the causal relationships.
 
-![Image: Predictive Data](https://fprisse.github.io/Digital_for_Industry/images/Automotive_PredictiveData.PNG)  
+![Image: Predictive Data](https://fprisse.github.io/Digital_for_Industry/images/Automotive_PredictiveData.PNG)
 
 Todays data-infrastructure can easily capture **Multidimensional Variation** and it is actually desirable from a analytical point of view.
 >This does not mean that there is no longer a need to run a taught ship : putting a padlock on dials that only have one right setting still makes good sense.
