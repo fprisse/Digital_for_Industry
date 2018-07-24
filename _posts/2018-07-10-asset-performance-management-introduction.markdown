@@ -117,7 +117,7 @@ Image: Example of asset health dashboard - Capgemini APM on MS-Azure
 
 ### 3.8 Model implementation (real-time analysis & alarms)
 - Score: Asset health (LOF)
-- Act on events: Alarms
+- Act on events: Alarms & notifications
 - Attribution of alarms to relevant discipline
 - Create events: workorders & re-scheduling
 
@@ -131,7 +131,7 @@ Image: Example of asset health dashboard - Capgemini APM on MS-Azure
 Image: Example of Advanced analytics support framework - Capgemini Consulting
 ![Advanced Analytics Capabilities](https://fprisse.github.io/Digital_for_Industry/images/Data_Capabilty.PNG)
 
-*Source: Capgemini Consulting - Insights & Data 2017* 
+*Source: Capgemini Consulting - Insights & Data 2017*
 
 ### 4.0 Connectivity
 
@@ -171,7 +171,7 @@ It thus requires a mix of
 - Take on board wide breadth of newly available information without throwing the basis overboard
   - preventive maintenance
   - work-order optimization
-- Joint performance metrics: 
+- Joint performance metrics:
   for a coordinated effort to balance optimization of production, asset performance, product quality and cost, you had better have a shared measure for these
 - Make data relate-able
   - Time stamped performance data
