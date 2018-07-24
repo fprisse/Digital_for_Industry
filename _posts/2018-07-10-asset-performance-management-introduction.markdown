@@ -31,14 +31,14 @@ APM:
 ## 2. Why is it good ?
 In Capital-intensive industries success is for the greater part defined by the balancing act of risk of undesirable events and the cost of preventing them. Today most organizations rely on preventive maintenance regimes and basic monitoring (mostly alarm systems provided by OEM's) for realizing safety, uptime and reliability at acceptable cost. Based on failures specific components may be prioritized for overhauls. Some do even adopt the maintenance and inspections intervals to take into account deviations in load & runtime based on reports provided by operations.
 
-Asset performance management is first and foremost about doing the above in a more data-drive manner and making use of advanced analytics to improve failure-mode modeling to improve maintenance regimes.
+Asset performance management is first and foremost about doing the above in a more data-drive manner and making use of advanced analytics for failure-mode modeling to improve maintenance regimes.
 
-Furthermore: accurate determination of the likelihood of failure is possible by structurally broadening the scope of real-time data that is taken into account such as:
-- Get load and runtime data from the machines
-- Add raw material and product specifications
-- Relate product quality reporting to machine performance
+Furthermore: more accurate determination of the likelihood of failure is possible by structurally broadening the scope of real-time data that is taken into account by:
+- using load and runtime data from the machines
+- adding raw material and product specifications
+- relating product quality reporting to machine performance
 
-When well translated into component specific agenda's this allows for (on average) longer intervals for inspections and overhauls AND prevention of undesirable events (failure, contamination or quality issues) by advancing maintenance work when models indicate a heightened likelihood of failure
+When well translated into component specific agenda's this allows for (on average) longer intervals for inspections and overhauls AND prevention of undesirable events (failure, contamination or quality issues) by advancing maintenance work when models indicate a heightened likelihood of failure.
 
 | Benefits |
 | --- |
@@ -61,7 +61,7 @@ Image: APM Analystics framework integrated in OEE KPI Tree
 
 
 
-### 3.2 Data Model: Collect and Make Available
+### 3.2 Data Model: Collect and make Available
 
 - Cross discipline:
   - Maintenance: WO records, Regimes, Inspection reports
@@ -80,10 +80,10 @@ In order for data to be relate-able a foundation of well maintained registry of 
 
 Good thing about running real live data through these registries is that faulty entries become very apparent. In fact there are APM solution providers that have (partly) automated the work flow for correcting anomalies.
 
-### 3.4 Predictive Analysis Workbench
+### 3.4 Predictive Analysis workbench to flesh out complex relations
 - Tools to build predictive models
-- Correlation, Regression & Clustering
-- Exportable Probality Models
+- Correlation, regression & clustering
+- Exportable probability models
 
 Image: Example of analytical toolbox - IBM - Predictive Solutions
 ![Example of Analytical Toolbox by IBM](https://fprisse.github.io/Digital_for_Industry/images/IBM_prescriptive_Maintenance.PNG)
@@ -92,7 +92,7 @@ Image: Example of analytical toolbox - IBM - Predictive Solutions
 
 
 
-### 3.6 Asset Health Dashboard**
+### 3.6 Asset Health Dashboard
 
 - Display geographic dispersion of assets
 - Health: Likelihood of Failure (incl. forecast)
@@ -100,29 +100,29 @@ Image: Example of analytical toolbox - IBM - Predictive Solutions
 
 
 
-Image: Example of asset health dashboard - Capgemni APM on MS-Azure
+Image: Example of asset health dashboard - Capgemini APM on MS-Azure
 ![Example asset Health dashboard](https://fprisse.github.io/Digital_for_Industry/images/CapgeminiAPM5.PNG)
 
 *Source: Capgemini Smart Assets Solutions*
 
 
 
-### 3.7 Reporting and Publishing Tools
+### 3.7 Reporting and publishing Tools
 
 - Customizable Templates
 - Web-based & Interactive
 - Distributable format
 
-### 3.8 Model implementation (automated analysis & alarms)
-- Database: Asset Health (LOF)
-- Act on Events: Alarms
-- Attribution of Alarms to relevant discipline
-- Create Events: Workorders & Re-scheduling
+### 3.8 Model implementation (real-time analysis & alarms)
+- Database: Asset health (LOF)
+- Act on events: Alarms
+- Attribution of alarms to relevant discipline
+- Create Events: workorders & re-scheduling
 
-### 3.9 Advanced Analytics Capability
-- Platform & Application Governance
-- Multivariate Analysis Skills
-- Procured Training & Specialist Support
+### 3.9 Advanced analytics capability
+- Platform & application governance
+- Multivariate analysis skills
+- Procured training & specialist support
 
 
 
@@ -133,10 +133,10 @@ Image: Example of Advanced analytics support framework - Capgemini Consulting
 
 ### 4.0 Connectivity
 
-- Performance mgt Systems (OEE, Product data & Quality)
+- Performance management systems (OEE, Product data & Quality)
 - EAM (Maintenance planning & execution)
-- Machine Bus
-- IoT Sensors
+- Machine bus
+- IoT sensors
 - Environmental data (API)
 
 Image: Example of sensoring and connectivity solution - "Smart Knob"  - Sogeti High Tech
@@ -146,19 +146,18 @@ Image: Example of sensoring and connectivity solution - "Smart Knob"  - Sogeti H
 ## Extra: IOT Agenda:
 As the APM dashboard provides such a broad view it is a very appropriate starting point for pinpointing for determining where adding datasources will have the most value. Thereby setting the priorities for an IOT agenda based on a balanced view upon opeartional and asset management priorities
 
-IoT is a gamechanger especially for older assets: whereas intergrating and acting such a wide breadth of data and cross-discipline was deemed to be only for copmpanies with newer facilities now teh upgrading of sensors and such has become a relatively small investmetn
+IoT is a gamechanger especially for older assets: whereas intergrating and acting such a wide breadth of data and cross-discipline was deemed to be only realistic for companies with newer facilities now the upgrading of sensors and such has become a relatively small investment
 
 ## What makes it hard ?
-- imperfection of information (at start) base data such as asset registries
-- choosing the right level of detail
-- making it work as a managemetn tool or making it work at shop floor level
-- Must delvier a plan/agenda / schedule
-- right breadth of scope and level of detail
+- imperfection (at start) of base data such as asset registries
+- Choosing the right level of detail
+- Making it work as a management tool AND making it work at shop floor level
+- Must produce a plan/agenda /schedule for people to act upon
 
 It thus requires a mix of
 
 1. top down standard
-2. bottom up Analysics & Learning exercises
+2. bottom up analytics & learning exercises
 3. Networked development
 
 ## Critical success factors
@@ -167,14 +166,14 @@ It thus requires a mix of
 - Tooling: use available data first
   - reported input such as visual inspections
 - Must track execution
-- Take on board wide breadt of newly available information without throwing the basis overboard
-  - _preventive maintenance_
-  - workorder optimization
+- Take on board wide breadth of newly available information without throwing the basis overboard
+  - preventive maintenance
+  - work-order optimization
 - Joint performance metrics: 
   for a coordinated effort to balance optimization of production, asset performance, product quality and cost, you had better have a shared measure for these
-- Make data relateable
+- Make data relate-able
   - Time stamped performance data
-  - Trackable materials & product
+  - Track-able materials & product
   - Shared static data
-- Should not only integrate but also allow itself to be intergrated:
+- Should not only integrate but also allow itself to be integrated:
   This is where most ready made solutions fall short
