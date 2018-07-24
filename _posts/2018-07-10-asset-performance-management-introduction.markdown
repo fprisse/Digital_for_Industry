@@ -81,7 +81,7 @@ Good thing about running real live data through these registries is that faulty 
 Image: Example of analytical toolbox - IBM - Predictive Solutions
 ![Example of Analytical Toolbox by IBM](https://fprisse.github.io/Digital_for_Industry/images/IBM_Prescriptive_Maintenance.PNG)
 
-### 3.6 Asset Health Dashboard**
+### 3.6 Asset Health Dashboard
 - Display geographic dispersion of assets
 - Health: Likelihood of Failure (incl. forecast)
 - Criticality: Impact of undesirable event
@@ -89,7 +89,7 @@ Image: Example of analytical toolbox - IBM - Predictive Solutions
 Image: Example of asset health dashboard - Capgemni APM on MS-Azure
 ![Example asset Health dashboard](/images/CapgeminiAPM5.PNG)
 
-### 3.7 Reporting and Publishing Tools**
+### 3.7 Reporting and Publishing Tools
 - Customizable Templates
 - Web-based & Interactive
 - Distributable format
