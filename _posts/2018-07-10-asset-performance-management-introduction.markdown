@@ -161,7 +161,7 @@ It thus requires a mix of
 2. bottom up Analysics & Learning exercises
 3. Networked development
 
-## Critical succes factors
+## Critical success factors
 - Approach: non isolated approach: part of the concept
 - A structured manner to deal with inconsistency
 - Tooling: use available data first
