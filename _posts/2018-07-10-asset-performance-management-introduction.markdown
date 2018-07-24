@@ -25,7 +25,7 @@ APM:
 |   | In context with other Maintenance and Asset Management systems |
 | --- | --- |
 | APM | APM is designed for data drive decision making and planning to realize safe, reliable, and efficient operation of equipment and  infrastructure |
-| EAM | EAM is designed for maintenance execution. A two-way link between the two is key for 1) Using maintenance execution history to gauage likelihood of failure 2) To trigger the creation or re-scheduling of work-orders |
+| EAM | EAM is designed for maintenance execution. A two-way link between the two is key for 1) Using maintenance execution history to gauge likelihood of failure 2) To trigger the creation or re-scheduling of work-orders |
 | AIP | Asset investment planning (AIP) AIP takes data on asset condition, maintenance costs, criticality,  budgets and risks, to produce a CAPEX forecast for asset replacement or decommissioning |
 
 ## 2. Why is it good ?
