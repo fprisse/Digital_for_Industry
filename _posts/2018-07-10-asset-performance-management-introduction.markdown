@@ -53,9 +53,16 @@ APM is not one *thing*. APM is a set of well **orchestrated capabilties, involvi
 
 ### 3.1  A comprehensive set of metrics (cross discipline)
 
+Image: APM Analystics framework integrated in OEE KPI Tree
+
 ![APM_KPI_TREE](https://fprisse.github.io/Digital_for_Industry/images/APM_KPI_TREE.PNG)
 
+*Source: Capgemini Digital Manufacturing - Asset Management Solutions*
+
+
+
 ### 3.2 Data Model: Collect and Make Available
+
 - Cross discipline:
   - Maintenance: WO records, Regimes, Inspection reports
   - Operations: Performance, Raw Materials, Product Specs.
@@ -79,17 +86,29 @@ Good thing about running real live data through these registries is that faulty 
 - Exportable Probality Models
 
 Image: Example of analytical toolbox - IBM - Predictive Solutions
-![Example of Analytical Toolbox by IBM](https://fprisse.github.io/Digital_for_Industry/images/IBM_Prescriptive_Maintenance.PNG)
+![Example of Analytical Toolbox by IBM](https://fprisse.github.io/Digital_for_Industry/images/IBM_prescriptive_Maintenance.PNG)
+
+*Source: IBM Cloud: Predictive Solutions*
+
+
 
 ### 3.6 Asset Health Dashboard**
+
 - Display geographic dispersion of assets
 - Health: Likelihood of Failure (incl. forecast)
 - Criticality: Impact of undesirable event
 
-Image: Example of asset health dashboard - Capgemni APM on MS-Azure
-![Example asset Health dashboard](/images/CapgeminiAPM5.PNG)
 
-### 3.7 Reporting and Publishing Tools**
+
+Image: Example of asset health dashboard - Capgemni APM on MS-Azure
+![Example asset Health dashboard](https://fprisse.github.io/Digital_for_Industry/images/CapgeminiAPM5.PNG)
+
+*Source: Capgemini Smart Assets Solutions*
+
+
+
+### 3.7 Reporting and Publishing Tools
+
 - Customizable Templates
 - Web-based & Interactive
 - Distributable format
@@ -105,18 +124,22 @@ Image: Example of asset health dashboard - Capgemni APM on MS-Azure
 - Multivariate Analysis Skills
 - Procured Training & Specialist Support
 
-Example of Advanced analytics support framework - Capgemini Consulting
+
+
+Image: Example of Advanced analytics support framework - Capgemini Consulting
 ![Advanced Analytics Capabilities](https://fprisse.github.io/Digital_for_Industry/images/Data_Capabilty.PNG)
 
+*Source: Capgemini Consulting - Insights & Data 2017* 
+
 ### 4.0 Connectivity
-- Enterprise systems
-- Machine Bus
-- External Sensors (IOT)
-- EAM (Maintenance planning & execution)
+
 - Performance mgt Systems (OEE, Product data & Quality)
+- EAM (Maintenance planning & execution)
+- Machine Bus
+- IoT Sensors
 - Environmental data (API)
 
-Example of sensoring and connectivity solution - Sogeti High Tech
+Image: Example of sensoring and connectivity solution - "Smart Knob"  - Sogeti High Tech
 ![Sogeti Smart Knob](https://fprisse.github.io/Digital_for_Industry/images/Smart_Knob.PNG)
 
 
@@ -133,17 +156,25 @@ IoT is a gamechanger especially for older assets: whereas intergrating and actin
 - right breadth of scope and level of detail
 
 It thus requires a mix of
-1) top down standard
-2) bottom up Analysics & Learning exercises
-3) Networked development
+
+1. top down standard
+2. bottom up Analysics & Learning exercises
+3. Networked development
 
 ## Critical succes factors
 - Approach: non isolated approach: part of the concept
-- manner to deal with inconsistency
-- Tooling: use available data First (must be able to take on board reported input such as visual inspections)
-- Must track execution !!
-- Dont throw _preventive maintenance_ or _workorder optimization_ overboard
-- JOINT PERFORMANCE DASHBOARD ! if you want a coordinated effort for a balance optimsiation of production, asset performance, product quality and cost, you better have a shared measure for these
-- Make data relateable (tiem stamped performance data)
+- A structured manner to deal with inconsistency
+- Tooling: use available data first
+  - reported input such as visual inspections
+- Must track execution
 - Take on board wide breadt of newly available information without throwing the basis overboard
-- Should not only integrate but also allow itseld to be intergrated
+  - _preventive maintenance_
+  - workorder optimization
+- Joint performance metrics: 
+  if you want a coordinated effort for a balance optimization of production, asset performance, product quality and cost, you better have a shared measure for these
+- Make data relateable
+  - Time stamped performance data
+  - Trackable materials & product
+  - Shared static data
+- Should not only integrate but also allow itself to be intergrated
+  This is where most ready made solutions fall short
