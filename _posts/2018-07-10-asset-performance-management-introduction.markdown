@@ -15,12 +15,12 @@ This does not require fully Integrating production management and asset manageme
 
 APM:
 - includes the concepts of condition monitoring, predictive forecasting and reliability-centered maintenance (RCM).
-- is a manner to run maintenance operations as an intergral part of your daily (prodution) operations
-- is not about *switching* from preventive maintenance to condition monitoring but it aims to add **sensory and operational data** to the equasion.
+- is a manner to run maintenance operations as an intergral part of your daily (production) operations
+- is not about *switching* from preventive maintenance to condition monitoring but it aims to *add* **sensory and operational data** to the equasion.
 
 ![Capgemini Digital Maturity](https://fprisse.github.io/Digital_for_Industry/images/Digital_Maturity.PNG)
 
-**History:** The methodology and terminology originates mainly from asset intensive continuous process industry with a homgenous product such as upstream oil & gas / electricity production and utilities. Industries Where the uptime component was the most important of the OEE equasion.
+**History:** The methodology and terminology originates mainly from asset intensive continuous process industry with a homogenous product such as upstream oil & gas / electricity production and utilities. Industries where the uptime component was the most important of the OEE equasion.
 
 |   | In context with other Maintenance and Asset Management systems |
 | --- | --- |
@@ -49,7 +49,7 @@ When well translated into component specific agenda's this allows for (on averag
 | Help comply with regulations: EG: ISO 55001 |
 
 ## 3. How does APM work ?
-APM is not one *thing*. APM is a set of well **orchestrated capabilties, involving business logic, governance, technology and procured services**
+APM is not one *thing*. APM is a set of well **orchestrated capabilities, involving business logic, governance, technology and procured services**
 
 ### 3.1  A comprehensive set of cross discipline metrics
 
@@ -66,10 +66,10 @@ Image: APM Analystics framework integrated in OEE KPI Tree
 ### 3.2 Data Model: Collect and make Available
 
 - Cross discipline:
-  - Maintenance: WO records, Regimes, Inspection reports
-  - Operations: Performance, Raw Materials, Product Specs.
-  - Quality Management: Quality reports, Rejects
-  - Machine data eg. RPM, Amps, Vibration
+  - Maintenance: WO records, regimes, inspection reports
+  - Operations: Performance, raw materials, product specs.
+  - Quality Management: Quality reports, rejects
+  - Machine data eg. RPM, Amps, vibration
   - Extra sensor data
 - Provided in both event as stored format
 - Environmental Data
@@ -82,7 +82,7 @@ In order for data to be relate-able a foundation of well maintained registry of 
 
 Good thing about running real live data through these registries is that faulty entries become very apparent. In fact there are APM solution providers that have (partly) automated the work flow for correcting anomalies.
 
-### 3.4 Predictive Analysis workbench to flesh out complex relations
+### 3.4 A predictive analysis workbench to flesh out complex relations
 - Tools to build predictive models
 - Correlation, regression & clustering
 - Exportable probability models
@@ -96,9 +96,9 @@ Image: Example of analytical toolbox - IBM - Predictive Solutions
 
 ### 3.6 Asset Health Dashboard
 
-- Display geographic dispersion of assets
 - Health: Likelihood of Failure (incl. forecast)
-- Criticality: Impact of undesirable event
+- Criticality: Impact of failure or other undesirable event
+- Display geographic dispersion of assets
 
 
 
@@ -111,15 +111,15 @@ Image: Example of asset health dashboard - Capgemini APM on MS-Azure
 
 ### 3.7 Reporting and publishing Tools
 
-- Customizable Templates
-- Web-based & Interactive
+- Customizable templates
+- Web-based & interactive
 - Distributable format
 
 ### 3.8 Model implementation (real-time analysis & alarms)
-- Database: Asset health (LOF)
+- Score: Asset health (LOF)
 - Act on events: Alarms
 - Attribution of alarms to relevant discipline
-- Create Events: workorders & re-scheduling
+- Create events: workorders & re-scheduling
 
 ### 3.9 Advanced analytics capability
 - Platform & application governance
