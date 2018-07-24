@@ -4,7 +4,6 @@ title: "Asset Performance Management Introduction"
 date: "2018-07-23 23:37"
 ---
 
-# Introduction to Asset Performance Management
 ## 1. What is it ?
 Asset performance management is a set of capabilties. Namely: data capture, integration, visualization and analytics. Tied together with the **primary goal of optimising reliability and availability of physical assets** and/or reducing maintenance cost. However as time and technology progresses we have come to expect systems and application to not only extract from it's ecosysystem. We today expect APM methodology and solutions to contribute to the **optimisation production and product quality too**. Thus forming an integral part of what we at Capgemini have dubbed the Digital Factory Platform.
 
@@ -56,10 +55,6 @@ APM is not one *thing*. APM is a set of well **orchestrated capabilties, involvi
 
 ![APM_KPI_TREE](https://fprisse.github.io/Digital_for_Industry/images/APM_KPI_TREE.PNG)
 
-| functional silos | Key Metrics | Outcomes |
-| --- | --- | --- |
-|  operations, maintenance and quality management | uptime, mean time to repair (MTTR), asset longevity, cost, quality/yield and safety | revenue, margin, customer satisfaction, and work-in-process (WIP) inventory  |
-
 ### 3.2 Data Model: Collect and Make Available
 - Cross discipline:
   - Maintenance: WO records, Regimes, Inspection reports
@@ -83,7 +78,7 @@ Good thing about running real live data through these registries is that faulty 
 - Correlation, Regression & Clustering
 - Exportable Probality Models
 
-![Example of Analytical Toolbox by IBM](https://fprisse.github.io/Digital_for_Industry/images/IBM-prescriptive_Maintenance.PNG)
+![Example of Analytical Toolbox by IBM](https://fprisse.github.io/Digital_for_Industry/images/IBM_Prescriptive_Maintenance.PNG)
 
 ### 3.6 Asset Health Dashboard**
 - Display geographic dispersion of assets
@@ -116,13 +111,7 @@ Good thing about running real live data through these registries is that faulty 
 - Performance mgt Systems (OEE, Product data & Quality)
 - Environmental data (API)
 
-![Sogety Smart Knob](### 3.5 Advanced Analytics Capability
-- Platform & Application Governance
-- Multivariate Analysis Skills
-- Procured Training & Specialist Support
-
-![Advanced Analytics Capabilities](https://fprisse.github.io/Digital_for_Industry/images/Data_Capabilty.PNG)/images/Smart_Knob.PNG)
-
+![Sogeti Smart Knob](https://fprisse.github.io/Digital_for_Industry/images/Smart_Knob.PNG)
 
 Two phased approach:
 1st: functional improvement making use of broader data set (improve maintenance taking operating paramaters into account) and vice versa: (improving the operating window by making use of asset health information)
