@@ -64,9 +64,9 @@ In order to do multi-dimensional analysis of the relation between sensory data, 
 In order to do multi-dimensional analysis on the relation between sensory data, production data, material specs, objectified quality assessment is needed. Modern sensors and Machine Learned Optical Recognition would be the golden standard. However upgrading the current reporting tools to allow for quantative data collection could allready be a good startingpoint.
 
 ### Capability to create insights from data
-Teaming up of analitical experts with production- and maintenance engineers.
+Teaming up of analytical experts with production- and maintenance engineers.
 
-Advanced Analysitcs for Autonmotive
+Advanced Analysitcs for Automotive
 ![Image: Predictive Analysis](https://fprisse.github.io/Digital_for_Industry/images/Automotive_PredictiveAnalysis.PNG)
 
 ### Capabilty to turn insights into action
