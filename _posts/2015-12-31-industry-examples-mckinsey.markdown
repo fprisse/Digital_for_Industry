@@ -1,3 +1,10 @@
+---
+layout: "post"
+title: "Industry Examples Mckinsey"
+date: "2015-12-31 04:59"
+author: "Brian Hartmann, Subu Narayanan and William P. King "
+---
+
 # Digital manufacturing: The revolution will be virtualized
 
 ​By  Brian Hartmann, William P. King, and Subu Narayanan
@@ -43,9 +50,7 @@ No company has harnessed every possible digital advance, but many  have begun to
 #### About the author(s)
 
 Brian Hartmann is a consultant in McKinsey’s Detroit office, and
-
 Subu Narayanan is an associate principal in the Chicago office.
-
 William P. King is the chief technology officer at the Digital Manufacturing and Design Innovation Institute at UI LABS in Chicago.
 
-The authors wish to acknowledge the contribution of Andrew Gonce and John Nanry to this article.             
+The authors wish to acknowledge the contribution of Andrew Gonce and John Nanry to this article.
