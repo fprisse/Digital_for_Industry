@@ -1,4 +1,8 @@
-## ADD 1: PROJECT SUMMARIES @ CAPGEMINI INVENT
+---
+layout: page
+title: Project Summaries @ Capgemini Invent
+permalink: /projects_invent/
+---
 
 **2019 - 2020 LambWeston-Meyer**
 Industry 4.0 roadmap the work included a capability assessment,  volumetric modelling and a high level level business case.
