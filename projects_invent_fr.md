@@ -1,4 +1,8 @@
-### ADDENDUM 1: RÉSUMÉ DES PROJETS @ CAPGEMINI CONSULTING
+---
+layout: page
+title: RÉSUMÉ DES PROJETS @ CAPGEMINI INVENT
+permalink: /projects_invent_fr/
+---
 
 #### 2017: Eriks SHV
 
