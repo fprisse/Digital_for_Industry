@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Florent E.N.E. Prisse
-permalink: /about/
+permalink: /about
 ---
 
 florent[at]prisse.com
