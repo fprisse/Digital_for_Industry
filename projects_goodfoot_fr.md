@@ -1,5 +1,8 @@
-### ADDENDUM 2: LE RÉSUMÉ DES PROJETS @ GOODFOOT CONSULTING
-
+---
+layout: page
+title: LE RÉSUMÉ DES PROJETS @ GOODFOOT CONSULTING
+permalink: /projects_goodfoot_fr
+---
 #### 2011: Vodaphone International
 
 Déploiement européen de la stratégie vers le marché pour SOHO et SMB
