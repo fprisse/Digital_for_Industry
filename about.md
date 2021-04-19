@@ -18,7 +18,7 @@ Content matter expert on hardware innovation and asset management in asset inten
 - Quantified quality assessment
 - Asset performance tracking
 
-[click here for project summaries](https://fprisse.github.io/Digital_for_Industry/projects_invent/)
+[click here for project summaries](https://fprisse.github.io/Digital_for_Industry/projects_invent)
 
 #### 2003 - 2011 : Consultant - Goodfoot Consulting, Amsterdam
 
@@ -28,13 +28,13 @@ Boutique consultancy leading high impact projects for the Upstream Energy Indust
 - Innovation management
 - Field Service & Logistics (Contractor Management)
 
-[click here for project summaries](https://fprisse.github.io/Digital_for_Industry/projects_goodfoot/)
+[click here for project summaries](https://fprisse.github.io/Digital_for_Industry/projects_goodfoot)
 
 #### 1999 - 2003 : Strategy Consultant - Gemini Consulting, Utrecht/London
 
 Strategy and Operational Consultancy specialized in leading technology driven change
 
-[click here for project summaries](https://fprisse.github.io/Digital_for_Industry/projects_gemini/)
+[click here for project summaries](https://fprisse.github.io/Digital_for_Industry/projects_gemini)
 
 #### 1999 - 1999 : Paralegal - Allen & Overy
 
