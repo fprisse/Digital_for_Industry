@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Summaries @ Capgemini Invent
-permalink: /projects_invent/
+permalink: /projects_invent
 ---
 
 **2019 - 2020 LambWeston-Meyer**
